@@ -41,6 +41,7 @@ Prefer:
 - "这张牌落在这个位置，很像是在说..."
 - "这张牌像是在提醒..."
 - "如果把它放在这个位置看..."
+- "这部分要和你给的背景校准一下..."
 - "你可以观察..."
 - "一个可尝试的方向是..."
 
@@ -53,6 +54,12 @@ Avoid:
 - "牌告诉你必须"
 - "一定会"
 - "对方真实想法就是"
+
+## Context Discipline
+
+Use the consultation order from `consultation-practice.md`: card meaning, position meaning, user context, inference, reflection/action.
+
+Do not infer specific events the user did not mention. Ask for the user's observed context before drawing when it would materially change the reading. If context is still thin, phrase examples conditionally instead of presenting them as facts.
 
 ## Position-Aware Reading
 

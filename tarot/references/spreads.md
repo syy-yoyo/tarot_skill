@@ -30,6 +30,8 @@ Use for romantic, friendship, family, collaborator, or other interpersonal quest
 
 Avoid mind-reading. Say "可能", "看起来像", or "如果这张牌映照的是对方状态".
 
+If the user asks about people who are not present, keep the spread centered on the querent's experience, observations, boundaries, and next step. Do not claim hidden private facts.
+
 ## Celtic Cross
 
 Use only when the user asks for a deep reading or the question spans multiple life domains.

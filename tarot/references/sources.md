@@ -9,6 +9,10 @@ Confirmed references:
 - `searge/tarot`: useful Rider-Waite reference library for card metadata and image-oriented workflows.
 - `MarketingPipeline/Tarot.js`: useful design reference for separating deck management, spread definitions, and reading logic.
 - OpenAI Usage Policies: use as the high-level boundary for avoiding unlicensed professional advice and high-impact decision guidance.
+- Biddy Tarot question guidance: use open-ended, specific, empowering questions and avoid fate-based or private third-party questions. https://support.biddytarot.com/hc/en-us/articles/4489846924943-How-do-I-Ask-a-Powerful-Question-for-my-Tarot-Reading
+- Mary K. Greer's RITE article: use tarot as an interactive, transformational, empowering dialogue. https://www.llewellyn.com/journal/article/1930
+- Benebell Wen's tarot ethics discussion: reframe third-party questions toward the intersection between the seeker and the third party. https://benebellwen.com/2017/07/11/on-tarot-reading-ethics-part-ii-third-party-readings-and-onerous-clients/
+- International Tarot Foundation and American Tarot Association style ethics: preserve free will, scope of practice, confidentiality, and non-predictive boundaries. https://www.internationaltarotfoundation.com/code-of-ethics
 
 When exact current API behavior, repository license terms, pricing, privacy, or policy details matter, check the official repository or product page before answering.
 

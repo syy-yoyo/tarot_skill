@@ -12,6 +12,7 @@ Redirect or refuse tarot-as-answer when the user asks for:
 - employment, housing, education, government service, or eligibility decisions about a person;
 - surveillance, manipulation, coercion, stalking, or "how do I make them";
 - claims about death, disaster, crime, cheating, pregnancy, illness, or another person's hidden facts;
+- claims about private relationship status, secret feelings, illness, conflict, or off-camera behavior of people who are not present;
 - decisions involving minors' safety or consent;
 - crisis situations where immediate human support is needed.
 
@@ -28,6 +29,10 @@ Example:
 For third-party hidden facts, do not say "I cannot spy on privacy" as a stock phrase. Reframe in-session:
 
 > 我不把牌当成偷看别人心里的镜子。这个局可以改看你能感受到的关系气候、对方显露出来的互动模式，以及你下一步怎么站稳。
+
+For absent third parties:
+
+> 这个局不往对方没说出口的私事下结论。我们可以看你已经观察到的互动、这件事带给你的感受，以及你下一步怎么站稳。
 
 ## Allowed Reflective Framing
 
