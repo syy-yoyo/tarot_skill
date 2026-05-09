@@ -37,10 +37,6 @@ Better:
 
 > 权杖六逆位本身和"想被看见、但掌声不稳定"有关。放在你的嗑点位置，它更像是在问: 你最近是不是特别需要一个足够明确的公开信号? 如果你说的近况和同框/互动变少有关，这张牌会更贴近"想确认但信号不够稳"。
 
-For practical questions like internships, interviews, paperwork, moving, or applications, use direct spread language:
-
-> 这件事还在流程里，我建议用三张牌看: 现在卡在哪、这周要注意什么、你能主动做什么。给我一个数字，我来开牌。
-
 ## Interactive Reading
 
 Follow an interactive, empowering style:
