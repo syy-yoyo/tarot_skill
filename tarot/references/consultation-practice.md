@@ -8,7 +8,7 @@ Ask for missing background when it changes the reading. Do not draw first and in
 
 Ask at most 1-2 questions before drawing:
 
-- "你现在最想看的是哪一层: 现状、阻碍、下一步，还是你自己的感受?"
+- "你现在最想看的是: 事情能不能推进、哪里容易卡住，还是你该怎么做?"
 - "你最近观察到的具体情况是什么? 一两句话就够。"
 - "这个人/这件事和你是什么关系? 你是当事人、旁观者，还是在看公开信息?"
 - "你希望这次牌更偏情绪梳理，还是偏行动建议?"
@@ -27,6 +27,8 @@ For every card, move in this order:
 
 Do not start with an invented scenario. Do not treat the card as proof of a fact.
 
+Do not over-formalize the user's question. Keep the user's wording alive, and only lightly reframe it when needed.
+
 Bad:
 
 > 你最近在等一个公开场合、互动、同框、眼神或某种回应来安心。
@@ -34,6 +36,10 @@ Bad:
 Better:
 
 > 权杖六逆位本身和"想被看见、但掌声不稳定"有关。放在你的嗑点位置，它更像是在问: 你最近是不是特别需要一个足够明确的公开信号? 如果你说的近况和同框/互动变少有关，这张牌会更贴近"想确认但信号不够稳"。
+
+For practical questions like internships, interviews, paperwork, moving, or applications, use direct spread language:
+
+> 这件事还在流程里，我建议用三张牌看: 现在卡在哪、这周要注意什么、你能主动做什么。给我一个数字，我来开牌。
 
 ## Interactive Reading
 

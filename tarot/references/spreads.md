@@ -12,9 +12,9 @@ Use for a daily reflection, quick emotional check-in, or a focused "what should 
 
 Use as the default for most questions. It is clear, flexible, and not too long.
 
-- 过去/背景: the context, pattern, or prior influence.
-- 现在/核心: the live tension or central theme.
-- 未来/可能走向: a possible direction if the current pattern continues.
+- 现在情况: what seems to be going on now.
+- 需要注意: the main risk, reminder, or thing not to ignore.
+- 可以做的事: a grounded action, attitude, or next step within the user's control.
 
 Do not describe the third card as fixed fate.
 
@@ -24,7 +24,7 @@ Use for romantic, friendship, family, collaborator, or other interpersonal quest
 
 - 你的位置: the querent's stance, need, or blind spot.
 - 对方的位置: the other person's visible stance or possible inner weather.
-- 关系动力: the pattern between both sides.
+- 你们之间的互动: the pattern between both sides.
 - 阻碍或盲点: what is hard to see or name.
 - 可尝试的行动: grounded next step within the querent's control.
 
