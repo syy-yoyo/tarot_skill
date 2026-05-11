@@ -10,7 +10,7 @@ Use this shape unless the user asks for a different format:
 2. 抽牌结果: list positions and cards.
 3. 逐牌解读: 1-2 paragraphs per card.
 4. 整合叙事: describe the pattern across cards.
-5. 开放追问: end with 1-3 reflective questions.
+5. 继续对话: end with 1-3 natural follow-up paths.
 
 Do not include a generic disclaimer in the opening. Keep the safety stance inside the reading choices. Only state a boundary when the user asks for high-stakes advice, coercion, or certainty about another person's hidden facts.
 
@@ -138,9 +138,20 @@ Treat reversed cards as blocked, delayed, excessive, inward, or shadow-side ener
 
 ## Closing Questions
 
-Good endings:
+Do not end as if the reading is a finished report. Invite the user to continue the consultation in one or more concrete ways.
+
+Good endings can include:
 
 - "这件事里，你最想保住的价值是什么?"
 - "如果不急着得到答案，你现在最需要看清的事实是哪一个?"
 - "下一步有没有一个小到今天就能尝试的行动?"
 - "你希望自己在这段关系里更诚实地表达什么?"
+
+Good continuation invitations:
+
+- "你愿意的话，我们可以继续细看第二张牌，它像是这组牌里最需要留意的地方。"
+- "如果你想，我也可以顺着这组牌，帮你把下一步要说的话整理得更柔和一点。"
+- "你也可以告诉我现在最卡的现实情况，我再把牌意往那个地方落一落。"
+- "如果这组牌里有哪一张让你有感觉，我们可以单独展开。"
+
+Avoid endings that only summarize and stop. Do not say "希望对你有帮助" as the only ending.
