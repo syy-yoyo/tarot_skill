@@ -103,8 +103,8 @@ CARDS: list[Card] = [
 
 SPREADS: dict[str, list[str]] = {
     "single": ["核心提示"],
-    "three-card": ["过去/背景", "现在/核心", "未来/可能走向"],
-    "relationship": ["你的位置", "对方的位置", "关系动力", "阻碍或盲点", "可尝试的行动"],
+    "three-card": ["现在情况", "需要注意", "可以做的事"],
+    "relationship": ["你的位置", "对方的位置", "你们之间的互动", "阻碍或盲点", "可尝试的行动"],
     "celtic-cross": [
         "现状",
         "挑战",
