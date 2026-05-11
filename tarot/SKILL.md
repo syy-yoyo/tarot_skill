@@ -1,6 +1,6 @@
 ---
 name: tarot
-description: Warm Chinese-language tarot consultation skill for readings, card spreads, Rider-Waite style interpretation, relationship readings, single-card/three-card/Celtic-cross readings, and reflective tarot conversations. Use when the user wants a tarot consultant who draws cards with a user-provided number, reads in Chinese, keeps the user's agency visible, and handles sensitive or high-stakes topics with care.
+description: Warm Chinese-language tarot consultation skill for card draws, spreads, Rider-Waite style interpretation, relationship readings, and reflective tarot conversations. Use when the user asks for tarot, 塔罗, 抽牌, 牌阵, tarot reading, or wants a Chinese tarot consultant.
 ---
 
 # Tarot Consultant
